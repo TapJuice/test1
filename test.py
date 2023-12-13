@@ -65,7 +65,6 @@ while True:
                 else:
                     continue
 
-
 # 释放资源
 cap.release()
 
